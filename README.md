@@ -83,22 +83,24 @@ Process P2 - Start: 5, End: 8
 Average Turnaround Time: 6.5
 Average Waiting Time: 3.5
 
-Contributing
+
+
+
+##Contributing
 We welcome contributions to improve this project! Here's how you can help:
 
 Fork the repository
-
 Create a new feature branch:
 
-bash
+##bash
 git checkout -b feature/your-feature-name
 Commit your changes:
 
-bash
+##bash
 git commit -m "Add your meaningful commit message"
 Push to the branch:
 
-bash
+##bash
 git push origin feature/your-feature-name
 Open a pull request with a clear description of your improvements
 
