@@ -83,32 +83,3 @@ Process P2 - Start: 5, End: 8
 Average Turnaround Time: 6.5
 Average Waiting Time: 3.5
 
-
-
-
-##Contributing
-We welcome contributions to improve this project! Here's how you can help:
-
-Fork the repository
-Create a new feature branch:
-
-##bash
-git checkout -b feature/your-feature-name
-Commit your changes:
-
-##bash
-git commit -m "Add your meaningful commit message"
-Push to the branch:
-
-##bash
-git push origin feature/your-feature-name
-Open a pull request with a clear description of your improvements
-
-## Installation
-1. Ensure Python 3.6+ is installed
-2. Clone the repository or download the script:
-   ```bash
-   git clone https://github.com/nisaiqbal000/CPU_Scheduling
-
-Please ensure your code follows the existing style and includes appropriate documentation.
-Free for educational and personal use. Commercial use requires permission.
