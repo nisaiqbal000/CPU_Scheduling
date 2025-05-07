@@ -14,20 +14,20 @@ A Python program that simulates four fundamental CPU scheduling algorithms used 
   - Average turnaround time
   - Average waiting time
   
-##Contributing
+## Contributing
 We welcome contributions to improve this project! Here's how you can help:
 Fork the repository
 Create a new feature branch:
 
-##bash
+## bash
 git checkout -b feature/your-feature-name
 Commit your changes:
 
-##bash
+## bash
 git commit -m "Add your meaningful commit message"
 Push to the branch:
 
-##bash
+## bash
 git push origin feature/your-feature-name
 Open a pull request with a clear description of your improvements
 
